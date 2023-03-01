@@ -1,3 +1,4 @@
 Student data
 
-Ritika balodi
+Ritika balodi 21
+Bhavya 22
